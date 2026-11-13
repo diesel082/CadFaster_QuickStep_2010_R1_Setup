@@ -2,7 +2,7 @@
 
 **CadFaster|QuickStep** by CadFaster, Inc. is a high-performance 3D **STEP viewer** for Windows, built to streamline design reviews and improve collaboration across engineering and manufacturing teams.
 
-The installer is included in this repository: [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](/files/CadFaster_QuickStep_2010_R1_Setup.exe) (version 2010 R1).
+The installer is included in this repository: [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](files/CadFaster_QuickStep_2010_R1_Setup.exe) (version 2010 R1).
 
 ## Key Features
 
@@ -16,7 +16,7 @@ The installer is included in this repository: [`files/CadFaster_QuickStep_2010_R
 ## Installation
 
 1. Download or clone this repository.
-2. Run [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](/files/CadFaster_QuickStep_2010_R1_Setup.exe) and follow the setup wizard.
+2. Run [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](files/CadFaster_QuickStep_2010_R1_Setup.exe) and follow the setup wizard.
 3. Launch QuickStep and open your `.step` / `.stp` files.
 
 ## License
@@ -43,7 +43,7 @@ If you cannot install software or just need a quick look at a STEP file, these f
 
 ### DWG FastView
 
-**DWG FastView** is a free CAD viewer that supports **STEP, DWG, STL, X_T, X_B** files, as well as **`.sldprt`** and **`.sldasm`** (SOLIDWORKS part and assembly files). Available for Windows, web, iOS, and Android.
+**DWG FastView** is a free CAD viewer that supports `.stp`, `.dwg`, `.stl`, `.x_b`, `.x_b`files, as well as **`.sldprt`** and **`.sldasm`** (SOLIDWORKS part and assembly files). Available for Windows, web, iOS, and Android.
 
 - Download page: <https://ru.dwgfastview.com/activity/promotion-step/stp-viewer/>
 - License: **Free**
