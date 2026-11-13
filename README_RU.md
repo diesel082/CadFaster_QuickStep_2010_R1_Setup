@@ -2,7 +2,7 @@
 
 **CadFaster|QuickStep** (разработчик — CadFaster, Inc.) — высокопроизводительный 3D-просмотрщик **STEP-файлов** для Windows, созданный для ускорения согласований конструкции и совместной работы инженерных и производственных команд.
 
-Установочный файл включён в этот репозиторий: [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](./files/CadFaster_QuickStep_2010_R1_Setup.exe) (версия 2010 R1).
+Установочный файл включён в этот репозиторий: [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](files/CadFaster_QuickStep_2010_R1_Setup.exe) (версия 2010 R1).
 
 ## Возможности
 
@@ -16,7 +16,7 @@
 ## Установка
 
 1. Скачайте или склонируйте этот репозиторий.
-2. Запустите `files/CadFaster_QuickStep_2010_R1_Setup.exe` и следуйте шагам мастера установки.
+2. Запустите [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](files/CadFaster_QuickStep_2010_R1_Setup.exe) и следуйте шагам мастера установки.
 3. Запустите QuickStep и откройте свои файлы `.step` / `.stp`.
 
 ## Лицензия
@@ -37,13 +37,13 @@ CadFaster|QuickStep распространяется как **freeware (бесп
 
 ### eDrawings Viewer (SOLIDWORKS)
 
-**eDrawings Viewer** от разработчиков SOLIDWORKS открывает и просматривает STEP-файлы, а также файлы eDrawings (`.eprt`, `.easm`, `.edrw`) и «родные» файлы SOLIDWORKS. Версия Viewer — **бесплатная для скачивания и использования**.
+**eDrawings Viewer** от разработчиков SOLIDWORKS открывает и просматривает STEP-файлы, а также файлы eDrawings (`.eprt`, `.easm`, `.edrw`, `.sldprt`, `.stp`, `.sldasm`, `.dwg`, `.dxf`) и «родные» файлы SOLIDWORKS. Версия Viewer — **бесплатная для скачивания и использования**.
 
 - Страница скачивания: <https://www.edrawingsviewer.com/download-edrawings>
 
 ### DWG FastView
 
-**DWG FastView** — бесплатный CAD-просмотрщик, поддерживающий файлы **STEP, DWG, STL, X_T, X_B**, а также **`.sldprt`** и **`.sldasm`** (детали и сборки SOLIDWORKS). Доступен для Windows, веб-версия, iOS и Android.
+**DWG FastView** — бесплатный CAD-просмотрщик, поддерживающий файлы `.stp`, `.dwg`, `.stl`, `.x_b`, `.x_b`, а также **`.sldprt`** и **`.sldasm`** (детали и сборки SOLIDWORKS). Доступен для Windows, веб-версия, iOS и Android.
 
 - Страница скачивания: <https://ru.dwgfastview.com/activity/promotion-step/stp-viewer/>
 - Тип лицензии: **бесплатная (Free)**

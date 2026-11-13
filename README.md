@@ -37,13 +37,13 @@ If you cannot install software or just need a quick look at a STEP file, these f
 
 ### eDrawings Viewer (SOLIDWORKS)
 
-**eDrawings Viewer** from the SOLIDWORKS developers opens and views STEP files as well as eDrawings (`.eprt`, `.easm`, `.edrw`, `.stp`, `.dwg`, `.dxf`) and native SOLIDWORKS files. The viewer edition is **free to download and use**.
+**eDrawings Viewer** from the SOLIDWORKS developers opens and views STEP files as well as eDrawings (`.eprt`, `.easm`, `.edrw`, `.sldprt`, `.stp`, `.sldasm`, `.dwg`, `.dxf`) and native SOLIDWORKS files. The viewer edition is **free to download and use**.
 
 - Download page: <https://www.edrawingsviewer.com/download-edrawings>
 
 ### DWG FastView
 
-**DWG FastView** is a free CAD viewer that supports `.stp`, `.dwg`, `.stl`, `.x_b`, `.x_b`files, as well as **`.sldprt`** and **`.sldasm`** (SOLIDWORKS part and assembly files). Available for Windows, web, iOS, and Android.
+**DWG FastView** is a free CAD viewer that supports `.stp`, `.dwg`, `.stl`, `.x_b`, `.x_b` files, as well as **`.sldprt`** and **`.sldasm`** (SOLIDWORKS part and assembly files). Available for Windows, web, iOS, and Android.
 
 - Download page: <https://ru.dwgfastview.com/activity/promotion-step/stp-viewer/>
 - License: **Free**
