@@ -2,7 +2,7 @@
 
 **CadFaster|QuickStep** by CadFaster, Inc. is a high-performance 3D **STEP viewer** for Windows, built to streamline design reviews and improve collaboration across engineering and manufacturing teams.
 
-The installer is included in this repository: [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](./files/CadFaster_QuickStep_2010_R1_Setup.exe) (version 2010 R1).
+The installer is included in this repository: [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](/files/CadFaster_QuickStep_2010_R1_Setup.exe) (version 2010 R1).
 
 ## Key Features
 
@@ -16,7 +16,7 @@ The installer is included in this repository: [`files/CadFaster_QuickStep_2010_R
 ## Installation
 
 1. Download or clone this repository.
-2. Run `files/CadFaster_QuickStep_2010_R1_Setup.exe` and follow the setup wizard.
+2. Run [`files/CadFaster_QuickStep_2010_R1_Setup.exe`](/files/CadFaster_QuickStep_2010_R1_Setup.exe) and follow the setup wizard.
 3. Launch QuickStep and open your `.step` / `.stp` files.
 
 ## License
@@ -37,7 +37,7 @@ If you cannot install software or just need a quick look at a STEP file, these f
 
 ### eDrawings Viewer (SOLIDWORKS)
 
-**eDrawings Viewer** from the SOLIDWORKS developers opens and views STEP files as well as eDrawings (`.eprt`, `.easm`, `.edrw`) and native SOLIDWORKS files. The viewer edition is **free to download and use**.
+**eDrawings Viewer** from the SOLIDWORKS developers opens and views STEP files as well as eDrawings (`.eprt`, `.easm`, `.edrw`, `.stp`, `.dwg`, `.dxf`) and native SOLIDWORKS files. The viewer edition is **free to download and use**.
 
 - Download page: <https://www.edrawingsviewer.com/download-edrawings>
 
